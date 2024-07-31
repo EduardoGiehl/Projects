@@ -12,7 +12,7 @@ Bem-vindo ao repositório `Projects`! Este repositório serve como um espaço co
 
 ...
 
-## Como Contribuir
+## Estrutura
 
 1. **Criar uma Nova Pasta:**
    - Cada novo projeto deve ter sua própria pasta na raiz do repositório.
