@@ -30,7 +30,7 @@ Bem-vindo ao repositório `Projects`! Este repositório serve como um espaço co
 
 ## Requisitos
 
-- Certifique-se de que seu código está bem organizado e documentado.
+- Certifique de que seu código está bem organizado e documentado.
 - Respeite a estrutura e padrões de nomenclatura estabelecidos.
 - Utilize commits descritivos e claros para facilitar o rastreamento de mudanças.
 
